@@ -6,7 +6,6 @@
 ### Hi there 👋
 
 I'm WangSun 😃<br>
-An NYUer, a programmer, an engineer, a philosopher, a dreamer🦄️.
 - 🔭 I’m currently striving for a better life in the world of Machine Learning 🤖.
 - 📕 I’m currently reading SICP and PRML.
 - 🎹 I love Rachmaninoff, Prokofiev and Tchaikovsky.
@@ -32,13 +31,13 @@ Here are some ideas to get you started:
      
 <div align="center">
    
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MazelTovy&layout=compact&hide=html,hack,css&theme=gotham)](https://github.com/MazelTovy) 
-  <img  height=' 165px' src="https://github-readme-stats.vercel.app/api?username=MazelTovy&show_icons=true&theme=gotham&count_private=true">
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShiGanXingBang&layout=compact&hide=html,hack,css&theme=gotham)](https://github.com/ShiGanXingBang) 
+  <img  height=' 165px' src="https://github-readme-stats.vercel.app/api?username=ShiGanXingBang&show_icons=true&theme=gotham&count_private=true">
 </div>
 
 <div id="badges"  align="center">
 
-[![MazelTovy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MazelTovy&theme=rogue)](https://github.com/MazelTovy/github-readme-activity-graph) 
+[![ShiGanXingBang's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShiGanXingBang&theme=rogue)](https://github.com/ShiGanXingBang/github-readme-activity-graph) 
 
 </div>
 
